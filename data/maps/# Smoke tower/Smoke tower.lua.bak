@@ -1,0 +1,6 @@
+RequiresMoonshot = true
+RequiresHighSeas = true
+
+-- Insert mods here, e.g. Mods = { "shortrange", "rapidfire" }
+Mods = { "dlc2", "dlc1_weapons_skirmish", "dlc1_portal_skirmish" }
+
