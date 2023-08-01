@@ -1,6 +1,6 @@
 # [RU] Карты для Forts
  ### Как установить
-  1. [Скачать карты](https://github.com/Nix-Fractal/forts-map-pack/archive/refs/heads/main.zip).
+  1. [🔽Скачать карты🔽](https://github.com/Nix-Fractal/forts-map-pack/archive/refs/heads/main.zip).
   2. Распаковать архив
   3. Скинуть в корневую директорию игры `/data/maps` карты `# <map>`
   4. Карты `# <map>` должны оказаться рядом с ванильными
@@ -15,7 +15,7 @@
 
 # [EN] Maps for Forts
  ### How to install
-  1. [Download Maps](https://github.com/Nix-Fractal/forts-map-pack/archive/refs/heads/main.zip).
+  1. [🔽Download Maps🔽](https://github.com/Nix-Fractal/forts-map-pack/archive/refs/heads/main.zip).
   2. Unzip the archive
   3. Throw in the root directory of the game `/data/maps` maps `# <map>`
   4. Maps `# <map>` must be next to vanilla
