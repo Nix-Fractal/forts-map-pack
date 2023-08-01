@@ -7,7 +7,7 @@
 
  ### Инфо
   Кастомные карты для Forts.<br>
-  На данный момент количество карт 170<br>
+  На данный момент количество карт 190<br>
   Все карты приведены в рабочее состояние, все помечены через "# <карта>" для унификации.<br>
   Если есть пожелания на скачивание карт пишите в лс добавлю в следующем паке
 
@@ -22,19 +22,27 @@
 
  ### Info
   Custom maps for Forts.<br>
-  At the moment, the number of maps is 170<br>
+  At the moment, the number of maps is 190<br>
   All maps are marked in the desired state, all are marked with "# <map>" for unification.<br>
   If there are requests for downloading maps, add to the next package
 
 <br>
 
 # IMG
+ # # 2Fort(s)
+  <img alt="data/maps/# 2Fort(s)/preview-# 2Fort(s)-3.jpg" src="data/maps/%23%202Fort%28s%29/preview-%23%202Fort%28s%29-3.jpg"><br>
  # # 2v2 Ice Wall
   <img alt="data/maps/# 2v2 Ice Wall/preview-# 2v2 Ice Wall-3.jpg" src="data/maps/%23%202v2%20Ice%20Wall/preview-%23%202v2%20Ice%20Wall-3.jpg"><br>
  # # 2v2 Land Grab
   <img alt="data/maps/# 2v2 Land Grab/preview-# 2v2 Land Grab-3.jpg" src="data/maps/%23%202v2%20Land%20Grab/preview-%23%202v2%20Land%20Grab-3.jpg"><br>
  # # 2v2 Sea Cliff
   <img alt="data/maps/# 2v2 Sea Cliff/preview-2v2 Sea Cliff-3.jpg" src="data/maps/%23%202v2%20Sea%20Cliff/preview-2v2%20Sea%20Cliff-3.jpg"><br>
+ # # 2v6
+  <img alt="data/maps/# 2v6/preview-# 2v6-3.jpg" src="data/maps/%23%202v6/preview-%23%202v6-3.jpg"><br>
+ # # 2v6 Chaos
+  <img alt="data/maps/# 2v6 Chaos/preview-# 2v6 Chaos-3.jpg" src="data/maps/%23%202v6%20Chaos/preview-%23%202v6%20Chaos-3.jpg"><br>
+ # # 2v6 TCGs Standard Japan
+  <img alt="data/maps/# 2v6 TCGs Standard Japan/preview-# 2v6 TCGs Standard Japan-3.jpg" src="data/maps/%23%202v6%20TCGs%20Standard%20Japan/preview-%23%202v6%20TCGs%20Standard%20Japan-3.jpg"><br>
  # # 2v6 Vanilla (clean)
   <img alt="data/maps/# 2v6 Vanilla (clean)/preview-# 2v6 Vanilla (clean)-3.jpg" src="data/maps/%23%202v6%20Vanilla%20%28clean%29/preview-%23%202v6%20Vanilla%20%28clean%29-3.jpg"><br>
  # # 2vs2 Jumbo Bridge
@@ -43,6 +51,8 @@
   <img alt="data/maps/# 3v3 Floating Island/preview-# 3v3 Floating Island-3.jpg" src="data/maps/%23%203v3%20Floating%20Island/preview-%23%203v3%20Floating%20Island-3.jpg"><br>
  # # 3v3 with spy
   <img alt="data/maps/# 3v3 with spy/preview-# 3v3 with spy-3.jpg" src="data/maps/%23%203v3%20with%20spy/preview-%23%203v3%20with%20spy-3.jpg"><br>
+ # # 3v5 Mount Sundoro
+  <img alt="data/maps/# 3v5 Mount Sundoro/preview-# 3v5 Mount Sundoro-3.jpg" src="data/maps/%23%203v5%20Mount%20Sundoro/preview-%23%203v5%20Mount%20Sundoro-3.jpg"><br>
  # # 3vs3 WaterWorld
   <img alt="data/maps/# 3vs3 WaterWorld/preview-WaterWorld-3.jpg" src="data/maps/%23%203vs3%20WaterWorld/preview-WaterWorld-3.jpg"><br>
  # # 4 Walls
@@ -75,6 +85,8 @@
   <img alt="data/maps/# 4v4 Don'T Fall/preview-# 4v4 Don'T Fall-3.jpg" src="data/maps/%23%204v4%20Don%27T%20Fall/preview-%23%204v4%20Don%27T%20Fall-3.jpg"><br>
  # # 4v4 DropValley
   <img alt="data/maps/# 4v4 DropValley/preview-# 4v4 DropValley-3.jpg" src="data/maps/%23%204v4%20DropValley/preview-%23%204v4%20DropValley-3.jpg"><br>
+ # # 4v4 Dwarven Wars
+  <img alt="data/maps/# 4v4 Dwarven Wars/preview-# 4v4 Dwarven Wars-3.jpg" src="data/maps/%23%204v4%20Dwarven%20Wars/preview-%23%204v4%20Dwarven%20Wars-3.jpg"><br>
  # # 4v4 Falling
   <img alt="data/maps/# 4v4 Falling/preview-# 4v4 Falling-3.jpg" src="data/maps/%23%204v4%20Falling/preview-%23%204v4%20Falling-3.jpg"><br>
  # # 4v4 Ice Wall XL
@@ -129,10 +141,14 @@
   <img alt="data/maps/# 4vs4 The Rat Hole/preview-# 4vs4 The Rat Hole-3.jpg" src="data/maps/%23%204vs4%20The%20Rat%20Hole/preview-%23%204vs4%20The%20Rat%20Hole-3.jpg"><br>
  # # 4vs4 Twin Sphere
   <img alt="data/maps/# 4vs4 Twin Sphere/preview-4vs4 Twin Sphere-3.jpg" src="data/maps/%23%204vs4%20Twin%20Sphere/preview-4vs4%20Twin%20Sphere-3.jpg"><br>
+ # # 6v2_Nong Min vsDi Zhu
+  <img alt="data/maps/# 6v2_Nong Min vsDi Zhu/preview-# 6v2_Nong Min vsDi Zhu-3.jpg" src="data/maps/%23%206v2_Nong%20Min%20vsDi%20Zhu/preview-%23%206v2_Nong%20Min%20vsDi%20Zhu-3.jpg"><br>
  # # Aircraft War
   <img alt="data/maps/# Aircraft War/preview-# Aircraft War-3.jpg" src="data/maps/%23%20Aircraft%20War/preview-%23%20Aircraft%20War-3.jpg"><br>
  # # Amogus
   <img alt="data/maps/# Amogus/preview-Amogus-3.jpg" src="data/maps/%23%20Amogus/preview-Amogus-3.jpg"><br>
+ # # Anthill
+  <img alt="data/maps/# Anthill/preview-# Anthill-3.jpg" src="data/maps/%23%20Anthill/preview-%23%20Anthill-3.jpg"><br>
  # # Arena Speed Round 2v2 v1.0
   <img alt="data/maps/# Arena Speed Round 2v2 v1.0/preview-# Arena Speed Round 2v2 v1.0-3.jpg" src="data/maps/%23%20Arena%20Speed%20Round%202v2%20v1.0/preview-%23%20Arena%20Speed%20Round%202v2%20v1.0-3.jpg"><br>
  # # Autistic Alliance 4+4vs4+4
@@ -171,6 +187,8 @@
   <img alt="data/maps/# Canyon Cove 3v3/preview-# Canyon Cove 3v3-3.jpg" src="data/maps/%23%20Canyon%20Cove%203v3/preview-%23%20Canyon%20Cove%203v3-3.jpg"><br>
  # # Castle Warfare
   <img alt="data/maps/# Castle Warfare/preview-# Castle Warfare-3.jpg" src="data/maps/%23%20Castle%20Warfare/preview-%23%20Castle%20Warfare-3.jpg"><br>
+ # # CaveForts11 Mutiny
+  <img alt="data/maps/# CaveForts11 Mutiny/preview-# CaveForts11 Mutiny-3.jpg" src="data/maps/%23%20CaveForts11%20Mutiny/preview-%23%20CaveForts11%20Mutiny-3.jpg"><br>
  # # Chernobil 4v4
   <img alt="data/maps/# Chernobil 4v4/preview-Chernobil 4v4-3.jpg" src="data/maps/%23%20Chernobil%204v4/preview-Chernobil%204v4-3.jpg"><br>
  # # Close Battle 4v4
@@ -203,6 +221,8 @@
   <img alt="data/maps/# Dominion invasion/preview-# Dominion invasion-3.jpg" src="data/maps/%23%20Dominion%20invasion/preview-%23%20Dominion%20invasion-3.jpg"><br>
  # # Double Forts 4v4
   <img alt="data/maps/# Double Forts 4v4/preview-# Double Forts 4v4-3.jpg" src="data/maps/%23%20Double%20Forts%204v4/preview-%23%20Double%20Forts%204v4-3.jpg"><br>
+ # # Elephants 2v2
+  <img alt="data/maps/# Elephants 2v2/preview-# Elephants 2v2-3.jpg" src="data/maps/%23%20Elephants%202v2/preview-%23%20Elephants%202v2-3.jpg"><br>
  # # Face to face
   <img alt="data/maps/# Face to face/preview-# Face to face-3.jpg" src="data/maps/%23%20Face%20to%20face/preview-%23%20Face%20to%20face-3.jpg"><br>
  # # FFA Not Quite As Bad
@@ -249,8 +269,12 @@
   <img alt="data/maps/# Land Grab 1v1 +AI/preview-# Land Grab 1v1 +AI-3.jpg" src="data/maps/%23%20Land%20Grab%201v1%20%2BAI/preview-%23%20Land%20Grab%201v1%20%2BAI-3.jpg"><br>
  # # Ledge Grab 4v4
   <img alt="data/maps/# Ledge Grab 4v4/preview-# Ledge Grab 4v4-3.jpg" src="data/maps/%23%20Ledge%20Grab%204v4/preview-%23%20Ledge%20Grab%204v4-3.jpg"><br>
+ # # Long Big Pe... rfect battle
+  <img alt="data/maps/# Long Big Pe... rfect battle/preview-# Long Big Pe... rfect battle-3.jpg" src="data/maps/%23%20Long%20Big%20Pe...%20rfect%20battle/preview-%23%20Long%20Big%20Pe...%20rfect%20battle-3.jpg"><br>
  # # Maunsell Forts
   <img alt="data/maps/# Maunsell Forts/preview-# Maunsell Forts-3.jpg" src="data/maps/%23%20Maunsell%20Forts/preview-%23%20Maunsell%20Forts-3.jpg"><br>
+ # # Microsize 3v3
+  <img alt="data/maps/# Microsize 3v3/preview-# Microsize 3v3-3.jpg" src="data/maps/%23%20Microsize%203v3/preview-%23%20Microsize%203v3-3.jpg"><br>
  # # mini bunkery v Avstralii 4v4
   <img alt="data/maps/# mini bunkery v Avstralii 4v4/preview-# mini bunkery v Avstralii 4v4-3.jpg" src="data/maps/%23%20mini%20bunkery%20v%20Avstralii%204v4/preview-%23%20mini%20bunkery%20v%20Avstralii%204v4-3.jpg"><br>
  # # MiniFort 4v4
@@ -273,6 +297,8 @@
   <img alt="data/maps/# Pacific Rim/preview-Pacific Rim-3.jpg" src="data/maps/%23%20Pacific%20Rim/preview-Pacific%20Rim-3.jpg"><br>
  # # Permafrost 4v4
   <img alt="data/maps/# Permafrost 4v4/preview-# Permafrost 4v4-3.jpg" src="data/maps/%23%20Permafrost%204v4/preview-%23%20Permafrost%204v4-3.jpg"><br>
+ # # Pile Rouillee
+  <img alt="data/maps/# Pile Rouillee/preview-# Pile Rouillee-3.jpg" src="data/maps/%23%20Pile%20Rouillee/preview-%23%20Pile%20Rouillee-3.jpg"><br>
  # # Pillars 2v6
   <img alt="data/maps/# Pillars 2v6/preview-# Pillars 2v6-3.jpg" src="data/maps/%23%20Pillars%202v6/preview-%23%20Pillars%202v6-3.jpg"><br>
  # # Pluie Fine 4v4
@@ -325,8 +351,12 @@
   <img alt="data/maps/# Squirrel's Peak/preview-# Squirrel's Peak-3.jpg" src="data/maps/%23%20Squirrel%27s%20Peak/preview-%23%20Squirrel%27s%20Peak-3.jpg"><br>
  # # ST Dominion war
   <img alt="data/maps/# ST Dominion war/preview-# ST Dominion war-3.jpg" src="data/maps/%23%20ST%20Dominion%20war/preview-%23%20ST%20Dominion%20war-3.jpg"><br>
+ # # Stalactites 3v5
+  <img alt="data/maps/# Stalactites 3v5/preview-# Stalactites 3v5-3.jpg" src="data/maps/%23%20Stalactites%203v5/preview-%23%20Stalactites%203v5-3.jpg"><br>
  # # Storm Area 51
   <img alt="data/maps/# Storm Area 51/preview-# Storm Area 51-3.jpg" src="data/maps/%23%20Storm%20Area%2051/preview-%23%20Storm%20Area%2051-3.jpg"><br>
+ # # Sumatra 4v4
+  <img alt="data/maps/# Sumatra 4v4/preview-# Sumatra 4v4-3.jpg" src="data/maps/%23%20Sumatra%204v4/preview-%23%20Sumatra%204v4-3.jpg"><br>
  # # survival
   <img alt="data/maps/# survival/preview-survival-3.jpg" src="data/maps/%23%20survival/preview-survival-3.jpg"><br>
  # # Technology Race 4VS4
@@ -337,18 +367,24 @@
   <img alt="data/maps/# The Beehive/preview-# The Beehive-3.jpg" src="data/maps/%23%20The%20Beehive/preview-%23%20The%20Beehive-3.jpg"><br>
  # # The Dragon's Wrath
   <img alt="data/maps/# The Dragon's Wrath/preview-# The Dragon's Wrath-3.jpg" src="data/maps/%23%20The%20Dragon%27s%20Wrath/preview-%23%20The%20Dragon%27s%20Wrath-3.jpg"><br>
+ # # Tier 1 Chaos 3v3
+  <img alt="data/maps/# Tier 1 Chaos 3v3/preview-# Tier 1 Chaos 3v3-3.jpg" src="data/maps/%23%20Tier%201%20Chaos%203v3/preview-%23%20Tier%201%20Chaos%203v3-3.jpg"><br>
  # # Tiny Giants
   <img alt="data/maps/# Tiny Giants/preview-# Tiny Giants-3.jpg" src="data/maps/%23%20Tiny%20Giants/preview-%23%20Tiny%20Giants-3.jpg"><br>
  # # Trench
   <img alt="data/maps/# Trench/preview-# Trench-3.jpg" src="data/maps/%23%20Trench/preview-%23%20Trench-3.jpg"><br>
  # # Tripolosky
   <img alt="data/maps/# Tripolosky/preview-# Tripolosky-3.jpg" src="data/maps/%23%20Tripolosky/preview-%23%20Tripolosky-3.jpg"><br>
+ # # tunnel 3v3
+  <img alt="data/maps/# tunnel 3v3/preview-# tunnel 3v3-3.jpg" src="data/maps/%23%20tunnel%203v3/preview-%23%20tunnel%203v3-3.jpg"><br>
  # # Tunnel Warfare
   <img alt="data/maps/# Tunnel Warfare/preview-# Tunnel Warfare-3.jpg" src="data/maps/%23%20Tunnel%20Warfare/preview-%23%20Tunnel%20Warfare-3.jpg"><br>
  # # Twin Cores
   <img alt="data/maps/# Twin Cores/preview-# Twin Cores-3.jpg" src="data/maps/%23%20Twin%20Cores/preview-%23%20Twin%20Cores-3.jpg"><br>
  # # udobnyi boi 4v4
   <img alt="data/maps/# udobnyi boi 4v4/preview-# udobnyi boi 4v4-3.jpg" src="data/maps/%23%20udobnyi%20boi%204v4/preview-%23%20udobnyi%20boi%204v4-3.jpg"><br>
+ # # Vanilla 3v5
+  <img alt="data/maps/# Vanilla 3v5/preview-# Vanilla 3v5-3.jpg" src="data/maps/%23%20Vanilla%203v5/preview-%23%20Vanilla%203v5-3.jpg"><br>
  # # Vanilla Large SW
   <img alt="data/maps/# Vanilla Large SW/preview-# Vanilla Large SW-3.jpg" src="data/maps/%23%20Vanilla%20Large%20SW/preview-%23%20Vanilla%20Large%20SW-3.jpg"><br>
  # # Vs AI
@@ -365,7 +401,11 @@
   <img alt="data/maps/# [4v4] allinaV/preview-# [4v4] allinaV-3.jpg" src="data/maps/%23%20%5B4v4%5D%20allinaV/preview-%23%20%5B4v4%5D%20allinaV-3.jpg"><br>
  # # 1 vs 1 or AI
   <img alt="data/maps/# 1 vs 1 or AI/preview-# 1 vs 1 or AI-3.jpg" src="data/maps/%23%201%20vs%201%20or%20AI/preview-%23%201%20vs%201%20or%20AI-3.jpg"><br>
+ # # 1v1 Silence
+  <img alt="data/maps/# 1v1 Silence/preview-# 1v1 Silence-3.jpg" src="data/maps/%23%201v1%20Silence/preview-%23%201v1%20Silence-3.jpg"><br>
+ # # 1v1v1v1v1v1v1v1 But Decent
+  <img alt="data/maps/# 1v1v1v1v1v1v1v1 But Decent/preview-# 1v1v1v1v1v1v1v1 But Decent-3.jpg" src="data/maps/%23%201v1v1v1v1v1v1v1%20But%20Decent/preview-%23%201v1v1v1v1v1v1v1%20But%20Decent-3.jpg"><br>
+ # # 1v1v1v1v1v1v1v1 Swing
+  <img alt="data/maps/# 1v1v1v1v1v1v1v1 Swing/preview-# 1v1v1v1v1v1v1v1 Swing-3.jpg" src="data/maps/%23%201v1v1v1v1v1v1v1%20Swing/preview-%23%201v1v1v1v1v1v1v1%20Swing-3.jpg"><br>
  # # 1v7 Bruski
   <img alt="data/maps/# 1v7 Bruski/preview-# 1v7 Bruski-3.jpg" src="data/maps/%23%201v7%20Bruski/preview-%23%201v7%20Bruski-3.jpg"><br>
- # # 2Fort(s)
-  <img alt="data/maps/# 2Fort(s)/preview-# 2Fort(s)-3.jpg" src="data/maps/%23%202Fort%28s%29/preview-%23%202Fort%28s%29-3.jpg"><br>

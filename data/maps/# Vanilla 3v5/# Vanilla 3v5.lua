@@ -1,9 +1,7 @@
 Sandbox = true
 Skirmish = true
 Multiplayer = true
+List = "FromScratch"
 
 Mods = {}
-Symmetrical = true
 HideFromEditor = true
---Demo = true
-List = "FromScratch"
